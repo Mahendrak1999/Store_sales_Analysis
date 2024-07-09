@@ -17,5 +17,11 @@ The main objective of this data analysis project is to improve customer experien
 
 - **Sales Optimization:** Improved sales strategies by identifying the most selling product categories and specific products. This insight aids in inventory planning, ensuring product availability to meet customer demands.
 
+## ScreenShots
+![project_image.png ](https://github.com/Mahendrak1999/Store_sales_Analysis/blob/master/ScreenShot/Screenshot%202024-07-09%20111629.png)
+![project_image.png ](https://github.com/Mahendrak1999/Store_sales_Analysis/blob/master/ScreenShot/Screenshot%202024-07-09%20111641.png).
+![project_image.png ](https://github.com/Mahendrak1999/Store_sales_Analysis/blob/master/ScreenShot/Screenshot%202024-07-09%20111746.png)
+![project_image.png ](https://github.com/Mahendrak1999/Store_sales_Analysis/blob/master/ScreenShot/Screenshot%202024-07-09%20111824.png)
+
 
 
